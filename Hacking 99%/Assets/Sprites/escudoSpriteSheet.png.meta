@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: c63c98efe89b86a4997af287baab2676
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: escudoSpriteSheet_0
+    21300002: escudoSpriteSheet_1
+    21300004: escudoSpriteSheet_2
+    21300006: escudoSpriteSheet_3
+    21300008: escudoSpriteSheet_4
+    21300010: escudoSpriteSheet_5
+    21300012: escudoSpriteSheet_6
+    21300014: escudoSpriteSheet_7
+    21300016: escudoSpriteSheet_8
+    21300018: escudoSpriteSheet_9
+    21300020: escudoSpriteSheet_10
+    21300022: escudoSpriteSheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: escudoSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escudoSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

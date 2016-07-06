@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 25ce0bd9d55877d4697b7a7e170da922
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Infection_0
+    21300002: Infection_1
+    21300004: Infection_4
+    21300006: Infection_5
+    21300008: Infection_7
+    21300010: Infection_8
+    21300012: Infection_9
+    21300014: Infection_11
+    21300016: Infection_12
+    21300018: Infection_14
+    21300020: Infection_16
+    21300022: Infection_18
+    21300024: Infection_20
+    21300026: Infection_22
+    21300028: Infection_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Infection_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 167
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 82
+        width: 167
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 85
+        width: 167
+        height: 1515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 85
+        width: 161
+        height: 1515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_7
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 82
+        width: 157
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_8
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 85
+        width: 163
+        height: 1515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_9
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 85
+        width: 160
+        height: 1515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_11
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 82
+        width: 156
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_12
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 82
+        width: 160
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_14
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 85
+        width: 157
+        height: 1515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_16
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 85
+        width: 157
+        height: 1515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_18
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 82
+        width: 163
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_20
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 82
+        width: 160
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_22
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 82
+        width: 156
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Infection_23
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 82
+        width: 160
+        height: 1518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

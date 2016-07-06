@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 68cbf109fc49f0e4bb96272dcfadf61e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: objetivo_0
+    21300002: objetivo_1
+    21300004: objetivo_2
+    21300006: objetivo_3
+    21300008: objetivo_4
+    21300010: objetivo_5
+    21300012: objetivo_6
+    21300014: objetivo_7
+    21300016: objetivo_8
+    21300018: objetivo_9
+    21300020: objetivo_10
+    21300022: objetivo_11
+    21300024: objetivo_12
+    21300026: objetivo_13
+    21300028: objetivo_14
+    21300030: objetivo_15
+    21300032: objetivo_16
+    21300034: objetivo_17
+    21300036: objetivo_18
+    21300038: objetivo_19
+    21300040: objetivo_20
+    21300042: objetivo_21
+    21300044: objetivo_22
+    21300046: objetivo_23
+    21300048: objetivo_24
+    21300050: objetivo_25
+    21300052: objetivo_26
+    21300054: objetivo_27
+    21300056: objetivo_28
+    21300058: objetivo_29
+    21300060: objetivo_30
+    21300062: objetivo_31
+    21300064: objetivo_32
+    21300066: objetivo_33
+    21300068: objetivo_34
+    21300070: objetivo_35
+    21300072: objetivo_36
+    21300074: objetivo_37
+    21300076: objetivo_38
+    21300078: objetivo_39
+    21300080: objetivo_40
+    21300082: objetivo_41
+    21300084: objetivo_42
+    21300086: objetivo_43
+    21300088: objetivo_44
+    21300090: objetivo_45
+    21300092: objetivo_46
+    21300094: objetivo_47
+    21300096: objetivo_48
+    21300098: objetivo_49
+    21300100: objetivo_50
+    21300102: objetivo_51
+    21300104: objetivo_52
+    21300106: objetivo_53
+    21300108: objetivo_54
+    21300110: objetivo_55
+    21300112: objetivo_56
+    21300114: objetivo_57
+    21300116: objetivo_58
+    21300118: objetivo_59
+    21300120: objetivo_60
+    21300122: objetivo_61
+    21300124: objetivo_62
+    21300126: objetivo_63
+    21300128: objetivo_64
+    21300130: objetivo_65
+    21300132: objetivo_66
+    21300134: objetivo_67
+    21300136: objetivo_68
+    21300138: objetivo_69
+    21300140: objetivo_70
+    21300142: objetivo_71
+    21300144: objetivo_72
+    21300146: objetivo_73
+    21300148: objetivo_74
+    21300150: objetivo_75
+    21300152: objetivo_76
+    21300154: objetivo_77
+    21300156: objetivo_78
+    21300158: objetivo_79
+    21300160: objetivo_80
+    21300162: objetivo_81
+    21300164: objetivo_82
+    21300166: objetivo_83
+    21300168: objetivo_84
+    21300170: objetivo_85
+    21300172: objetivo_86
+    21300174: objetivo_87
+    21300176: objetivo_88
+    21300178: objetivo_89
+    21300180: objetivo_90
+    21300182: objetivo_91
+    21300184: objetivo_92
+    21300186: objetivo_93
+    21300188: objetivo_94
+    21300190: objetivo_95
+    21300192: objetivo_96
+    21300194: objetivo_97
+    21300196: objetivo_98
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: objetivo_0
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 5639
+        width: 657
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5020
+        width: 656
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 5006
+        width: 657
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_3
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 4988
+        width: 657
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_4
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 4973
+        width: 656
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_5
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 4955
+        width: 657
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_6
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 4941
+        width: 657
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_7
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 4922
+        width: 656
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_8
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 4908
+        width: 657
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_9
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 4889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_10
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 4889
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_11
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 4889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_12
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 4889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_14
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_15
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_16
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 4289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_17
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_18
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_19
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 4289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_20
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_21
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_22
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 4289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_23
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_24
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 4289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3689
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_27
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_28
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 3689
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_29
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_30
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_31
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 3689
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_32
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_33
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_34
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 3689
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_35
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_36
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 3689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3089
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_38
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_39
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_40
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 3089
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_41
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_42
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_43
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 3089
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_44
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_45
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_46
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 3089
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_47
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_48
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 3089
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2489
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_50
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_51
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_52
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 2489
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_53
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_54
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_55
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 2489
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_56
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_57
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_58
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 2489
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_59
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_60
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 2489
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1889
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_62
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_63
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_64
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1889
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_65
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_66
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_67
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 1889
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_68
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_69
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_70
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 1889
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_71
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_72
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 1889
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_74
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_75
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_76
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_77
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_78
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_79
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 1289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_80
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_81
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_82
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 1289
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_83
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_84
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 1289
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_85
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 755
+        width: 657
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_86
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 773
+        width: 656
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_87
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 788
+        width: 657
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_88
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 806
+        width: 657
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 689
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_90
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_91
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_92
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 689
+        width: 656
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_93
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 689
+        width: 657
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_94
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 708
+        width: 657
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_95
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 722
+        width: 656
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_96
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 741
+        width: 657
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_97
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 220
+        width: 656
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: objetivo_98
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 239
+        width: 657
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

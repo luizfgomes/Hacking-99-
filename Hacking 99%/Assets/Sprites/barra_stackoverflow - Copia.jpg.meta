@@ -1,0 +1,2027 @@
+fileFormatVersion: 2
+guid: d29b5e222f019ee408f4c5c95602419a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barra_stackoverflow - Copia_0
+    21300002: barra_stackoverflow - Copia_1
+    21300004: barra_stackoverflow - Copia_2
+    21300006: barra_stackoverflow - Copia_3
+    21300008: barra_stackoverflow - Copia_4
+    21300010: barra_stackoverflow - Copia_5
+    21300012: barra_stackoverflow - Copia_6
+    21300014: barra_stackoverflow - Copia_7
+    21300016: barra_stackoverflow - Copia_8
+    21300018: barra_stackoverflow - Copia_9
+    21300020: barra_stackoverflow - Copia_10
+    21300022: barra_stackoverflow - Copia_11
+    21300024: barra_stackoverflow - Copia_12
+    21300026: barra_stackoverflow - Copia_13
+    21300028: barra_stackoverflow - Copia_14
+    21300030: barra_stackoverflow - Copia_15
+    21300032: barra_stackoverflow - Copia_16
+    21300034: barra_stackoverflow - Copia_17
+    21300036: barra_stackoverflow - Copia_18
+    21300038: barra_stackoverflow - Copia_19
+    21300040: barra_stackoverflow - Copia_20
+    21300042: barra_stackoverflow - Copia_21
+    21300044: barra_stackoverflow - Copia_22
+    21300046: barra_stackoverflow - Copia_23
+    21300048: barra_stackoverflow - Copia_24
+    21300050: barra_stackoverflow - Copia_25
+    21300052: barra_stackoverflow - Copia_26
+    21300054: barra_stackoverflow - Copia_27
+    21300056: barra_stackoverflow - Copia_28
+    21300058: barra_stackoverflow - Copia_29
+    21300060: barra_stackoverflow - Copia_30
+    21300062: barra_stackoverflow - Copia_31
+    21300064: barra_stackoverflow - Copia_32
+    21300066: barra_stackoverflow - Copia_33
+    21300068: barra_stackoverflow - Copia_34
+    21300070: barra_stackoverflow - Copia_35
+    21300072: barra_stackoverflow - Copia_36
+    21300074: barra_stackoverflow - Copia_37
+    21300076: barra_stackoverflow - Copia_38
+    21300078: barra_stackoverflow - Copia_39
+    21300080: barra_stackoverflow - Copia_40
+    21300082: barra_stackoverflow - Copia_41
+    21300084: barra_stackoverflow - Copia_42
+    21300086: barra_stackoverflow - Copia_43
+    21300088: barra_stackoverflow - Copia_44
+    21300090: barra_stackoverflow - Copia_45
+    21300092: barra_stackoverflow - Copia_46
+    21300094: barra_stackoverflow - Copia_47
+    21300096: barra_stackoverflow - Copia_48
+    21300098: barra_stackoverflow - Copia_49
+    21300100: barra_stackoverflow - Copia_50
+    21300102: barra_stackoverflow - Copia_51
+    21300104: barra_stackoverflow - Copia_52
+    21300106: barra_stackoverflow - Copia_53
+    21300108: barra_stackoverflow - Copia_54
+    21300110: barra_stackoverflow - Copia_55
+    21300112: barra_stackoverflow - Copia_56
+    21300114: barra_stackoverflow - Copia_57
+    21300116: barra_stackoverflow - Copia_58
+    21300118: barra_stackoverflow - Copia_59
+    21300120: barra_stackoverflow - Copia_60
+    21300122: barra_stackoverflow - Copia_61
+    21300124: barra_stackoverflow - Copia_62
+    21300126: barra_stackoverflow - Copia_63
+    21300128: barra_stackoverflow - Copia_64
+    21300130: barra_stackoverflow - Copia_65
+    21300132: barra_stackoverflow - Copia_66
+    21300134: barra_stackoverflow - Copia_67
+    21300136: barra_stackoverflow - Copia_68
+    21300138: barra_stackoverflow - Copia_69
+    21300140: barra_stackoverflow - Copia_70
+    21300142: barra_stackoverflow - Copia_71
+    21300144: barra_stackoverflow - Copia_72
+    21300146: barra_stackoverflow - Copia_73
+    21300148: barra_stackoverflow - Copia_74
+    21300150: barra_stackoverflow - Copia_75
+    21300152: barra_stackoverflow - Copia_76
+    21300154: barra_stackoverflow - Copia_77
+    21300156: barra_stackoverflow - Copia_78
+    21300158: barra_stackoverflow - Copia_79
+    21300160: barra_stackoverflow - Copia_80
+    21300162: barra_stackoverflow - Copia_81
+    21300164: barra_stackoverflow - Copia_82
+    21300166: barra_stackoverflow - Copia_83
+    21300168: barra_stackoverflow - Copia_84
+    21300170: barra_stackoverflow - Copia_85
+    21300172: barra_stackoverflow - Copia_86
+    21300174: barra_stackoverflow - Copia_87
+    21300176: barra_stackoverflow - Copia_88
+    21300178: barra_stackoverflow - Copia_89
+    21300180: barra_stackoverflow - Copia_90
+    21300182: barra_stackoverflow - Copia_91
+    21300184: barra_stackoverflow - Copia_92
+    21300186: barra_stackoverflow - Copia_93
+    21300188: barra_stackoverflow - Copia_94
+    21300190: barra_stackoverflow - Copia_95
+    21300192: barra_stackoverflow - Copia_96
+    21300194: barra_stackoverflow - Copia_97
+    21300196: barra_stackoverflow - Copia_98
+    21300198: barra_stackoverflow - Copia_99
+    21300200: barra_stackoverflow - Copia_100
+    21300202: barra_stackoverflow - Copia_101
+    21300204: barra_stackoverflow - Copia_102
+    21300206: barra_stackoverflow - Copia_103
+    21300208: barra_stackoverflow - Copia_104
+    21300210: barra_stackoverflow - Copia_105
+    21300212: barra_stackoverflow - Copia_106
+    21300214: barra_stackoverflow - Copia_107
+    21300216: barra_stackoverflow - Copia_108
+    21300218: barra_stackoverflow - Copia_109
+    21300220: barra_stackoverflow - Copia_110
+    21300222: barra_stackoverflow - Copia_111
+    21300224: barra_stackoverflow - Copia_112
+    21300226: barra_stackoverflow - Copia_113
+    21300228: barra_stackoverflow - Copia_114
+    21300230: barra_stackoverflow - Copia_115
+    21300232: barra_stackoverflow - Copia_116
+    21300234: barra_stackoverflow - Copia_117
+    21300236: barra_stackoverflow - Copia_118
+    21300238: barra_stackoverflow - Copia_119
+    21300240: barra_stackoverflow - Copia_120
+    21300242: barra_stackoverflow - Copia_121
+    21300244: barra_stackoverflow - Copia_122
+    21300246: barra_stackoverflow - Copia_123
+    21300248: barra_stackoverflow - Copia_124
+    21300250: barra_stackoverflow - Copia_125
+    21300252: barra_stackoverflow - Copia_126
+    21300254: barra_stackoverflow - Copia_127
+    21300256: barra_stackoverflow - Copia_128
+    21300258: barra_stackoverflow - Copia_129
+    21300260: barra_stackoverflow - Copia_130
+    21300262: barra_stackoverflow - Copia_131
+    21300264: barra_stackoverflow - Copia_132
+    21300266: barra_stackoverflow - Copia_133
+    21300268: barra_stackoverflow - Copia_134
+    21300270: barra_stackoverflow - Copia_135
+    21300272: barra_stackoverflow - Copia_136
+    21300274: barra_stackoverflow - Copia_137
+    21300276: barra_stackoverflow - Copia_138
+    21300278: barra_stackoverflow - Copia_139
+    21300280: barra_stackoverflow - Copia_140
+    21300282: barra_stackoverflow - Copia_141
+    21300284: barra_stackoverflow - Copia_142
+    21300286: barra_stackoverflow - Copia_143
+    21300288: barra_stackoverflow - Copia_144
+    21300290: barra_stackoverflow - Copia_145
+    21300292: barra_stackoverflow - Copia_146
+    21300294: barra_stackoverflow - Copia_147
+    21300296: barra_stackoverflow - Copia_148
+    21300298: barra_stackoverflow - Copia_149
+    21300300: barra_stackoverflow - Copia_150
+    21300302: barra_stackoverflow - Copia_151
+    21300304: barra_stackoverflow - Copia_152
+    21300306: barra_stackoverflow - Copia_153
+    21300308: barra_stackoverflow - Copia_154
+    21300310: barra_stackoverflow - Copia_155
+    21300312: barra_stackoverflow - Copia_156
+    21300314: barra_stackoverflow - Copia_157
+    21300316: barra_stackoverflow - Copia_158
+    21300318: barra_stackoverflow - Copia_159
+    21300320: barra_stackoverflow - Copia_160
+    21300322: barra_stackoverflow - Copia_161
+    21300324: barra_stackoverflow - Copia_162
+    21300326: barra_stackoverflow - Copia_163
+    21300328: barra_stackoverflow - Copia_164
+    21300330: barra_stackoverflow - Copia_165
+    21300332: barra_stackoverflow - Copia_166
+    21300334: barra_stackoverflow - Copia_167
+    21300336: barra_stackoverflow - Copia_168
+    21300338: barra_stackoverflow - Copia_169
+    21300340: barra_stackoverflow - Copia_170
+    21300342: barra_stackoverflow - Copia_171
+    21300344: barra_stackoverflow - Copia_172
+    21300346: barra_stackoverflow - Copia_173
+    21300348: barra_stackoverflow - Copia_174
+    21300350: barra_stackoverflow - Copia_175
+    21300352: barra_stackoverflow - Copia_176
+    21300354: barra_stackoverflow - Copia_177
+    21300356: barra_stackoverflow - Copia_178
+    21300358: barra_stackoverflow - Copia_179
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: barra_stackoverflow - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_5
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_7
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_8
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_9
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_10
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_11
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_12
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_13
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_14
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_16
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 261
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_22
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_23
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_24
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_25
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_26
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_27
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_28
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_29
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_30
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_31
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_32
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_33
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_34
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_35
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 232
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_41
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_42
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_43
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_44
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_45
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_46
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_47
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_48
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_49
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_50
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_51
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_52
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_53
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 203
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_59
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_60
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_61
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_62
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_63
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_64
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_65
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_66
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_67
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_68
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_69
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_70
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_71
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 174
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_75
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_77
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_78
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_79
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_80
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_81
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_82
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_83
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_84
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_85
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_86
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_87
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_88
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_89
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 145
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_93
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_94
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_95
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_96
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_97
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_98
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_99
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_100
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_101
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_102
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_103
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_104
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_105
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_106
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_107
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 116
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_109
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_110
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_111
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_112
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_113
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_114
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_115
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_116
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_117
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_118
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_119
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_120
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_121
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_122
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_123
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_124
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_125
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 87
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_127
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_128
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_129
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_130
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_131
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_132
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_133
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_134
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_135
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_136
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_137
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_138
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_139
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_140
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_141
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_142
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_143
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 58
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_145
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_147
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_148
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_149
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_150
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_151
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_152
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_153
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_154
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_155
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_156
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_157
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_158
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_159
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_160
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_161
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 29
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_163
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_164
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_165
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_166
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_167
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_168
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_169
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_170
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_171
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_172
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_173
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_174
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_175
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_176
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_177
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_178
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_stackoverflow - Copia_179
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 0
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

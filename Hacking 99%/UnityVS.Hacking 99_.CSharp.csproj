@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{41C301D3-696E-50D3-65DB-63CDD256A545}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
+    <UnityVersion>4.6.0f3</UnityVersion>
+    <RootNamespace></RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Prefabs\HUD\life100.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life20.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life30.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life40.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life50.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life60.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life70.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life80.cs" />
+    <Compile Include="Assets\Prefabs\HUD\life90.cs" />
+    <Compile Include="Assets\Prefabs\Inimigos Arcade\Inimigo0Arcade.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\Inim00IAF2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\Inim01IAF2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\Inim02IAF2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\Inim03IAF2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\RadarInim00F2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\RadarInim02F2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase2\RadarInim03F2.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\Inim00IAF3.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\Inim01IAF3.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\Inim02IAF3.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\Inim03IAF3.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\RadarInim00F3.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\RadarInim02F3.cs" />
+    <Compile Include="Assets\Prefabs\InimigosFase3\RadarInim03F3.cs" />
+    <Compile Include="Assets\Script\DestruirPontos.cs" />
+    <Compile Include="Assets\Script\Inimigo1.cs" />
+    <Compile Include="Assets\Script\Ranking.cs" />
+    <Compile Include="Assets\Script\Spawn.cs" />
+    <Compile Include="Assets\Script\addPonto.cs" />
+    <Compile Include="Assets\Script\callFase.cs" />
+    <Compile Include="Assets\Script\callMenu.cs" />
+    <Compile Include="Assets\Script\player.cs" />
+    <Compile Include="Assets\Scripts\Arcade\Inimigo00ia.cs" />
+    <Compile Include="Assets\Scripts\BugEnemy.cs" />
+    <Compile Include="Assets\Scripts\BugIA.cs" />
+    <Compile Include="Assets\Scripts\BugInstantiate.cs" />
+    <Compile Include="Assets\Scripts\Cutscene 1\Cutscene1.cs" />
+    <Compile Include="Assets\Scripts\Cutscene 2\Cutscene2.cs" />
+    <Compile Include="Assets\Scripts\Cutscene 3\Cutscene3.cs" />
+    <Compile Include="Assets\Scripts\Cutscene 4\Cutscene4.cs" />
+    <Compile Include="Assets\Scripts\Drag.cs" />
+    <Compile Include="Assets\Scripts\GameOver\GameOver.cs" />
+    <Compile Include="Assets\Scripts\HUD.cs" />
+    <Compile Include="Assets\Scripts\Inimigo0\Inim00IA.cs" />
+    <Compile Include="Assets\Scripts\Inimigo0\inim00.cs" />
+    <Compile Include="Assets\Scripts\Inimigo1\Inim01IA.cs" />
+    <Compile Include="Assets\Scripts\Inimigo1\inim01.cs" />
+    <Compile Include="Assets\Scripts\Inimigo2\Inim02IA.cs" />
+    <Compile Include="Assets\Scripts\Inimigo2\inim02.cs" />
+    <Compile Include="Assets\Scripts\Inimigo3\EnemyShot.cs" />
+    <Compile Include="Assets\Scripts\Inimigo3\Inim03IA.cs" />
+    <Compile Include="Assets\Scripts\Inimigo3\inim03.cs" />
+    <Compile Include="Assets\Scripts\Intro\scriptIntro.cs" />
+    <Compile Include="Assets\Scripts\KeyWall.cs" />
+    <Compile Include="Assets\Scripts\Menu\backMenu.cs" />
+    <Compile Include="Assets\Scripts\Menu\creditsMenu.cs" />
+    <Compile Include="Assets\Scripts\Menu\game_quit.cs" />
+    <Compile Include="Assets\Scripts\Menu\instructionsMenu.cs" />
+    <Compile Include="Assets\Scripts\Menu\menu.cs" />
+    <Compile Include="Assets\Scripts\Menu\scriptIntro.cs" />
+    <Compile Include="Assets\Scripts\Menu\select_fase.cs" />
+    <Compile Include="Assets\Scripts\Menu\sound_switch.cs" />
+    <Compile Include="Assets\Scripts\MoveTrail.cs" />
+    <Compile Include="Assets\Scripts\MoveTrailEnemy.cs" />
+    <Compile Include="Assets\Scripts\NucleoBug.cs" />
+    <Compile Include="Assets\Scripts\NucleoBugFase1.cs" />
+    <Compile Include="Assets\Scripts\NucleoBugFase2.cs" />
+    <Compile Include="Assets\Scripts\NucleoBugFase3.cs" />
+    <Compile Include="Assets\Scripts\ObjetivoScript.cs" />
+    <Compile Include="Assets\Scripts\Player\Player.cs" />
+    <Compile Include="Assets\Scripts\Player\Shot.cs" />
+    <Compile Include="Assets\Scripts\Portao.cs" />
+    <Compile Include="Assets\Scripts\RadarBug01.cs" />
+    <Compile Include="Assets\Scripts\RadarColliderDamage.cs" />
+    <Compile Include="Assets\Scripts\RadarInim00.cs" />
+    <Compile Include="Assets\Scripts\RadarInim02.cs" />
+    <Compile Include="Assets\Scripts\RadarInim03.cs" />
+    <Compile Include="Assets\Scripts\Ranking\ranking.cs" />
+    <Compile Include="Assets\Scripts\ScriptInstanciador.cs" />
+    <Compile Include="Assets\Scripts\Seguir.cs" />
+    <Compile Include="Assets\Scripts\ShieldPowerUp.cs" />
+    <Compile Include="Assets\Scripts\SoundEffectScript.cs" />
+    <Compile Include="Assets\Scripts\StackOverFlow.cs" />
+    <Compile Include="Assets\Scripts\Stage01.cs" />
+    <Compile Include="Assets\Scripts\Vitoria Fase 1\vitoriaF1.cs" />
+    <Compile Include="Assets\Scripts\Vitoria Fase 2\vitoriaF2.cs" />
+    <Compile Include="Assets\Scripts\VitoriaFinal.cs" />
+    <Compile Include="Assets\Scripts\Vitória Fase 3\vitoriaF3.cs" />
+    <Compile Include="Assets\Scripts\Xbox360_Controls_CSHARP.cs" />
+    <Compile Include="Assets\Scripts\destroyWalls.cs" />
+    <Compile Include="Assets\Scripts\explosaoScript.cs" />
+    <Compile Include="Assets\Scripts\movimentarC.cs" />
+    <Compile Include="Assets\Scripts\movimentarCArcade.cs" />
+    <Compile Include="Assets\Scripts\movimentarCF2.cs" />
+    <Compile Include="Assets\Scripts\movimentarCF3.cs" />
+    <Compile Include="Assets\Scripts\popUp.cs" />
+    <Compile Include="Assets\Scripts\powerUp.cs" />
+    <Compile Include="Assets\Scripts\powerUpShield.cs" />
+    <Compile Include="Assets\Scripts\spawn.cs" />
+    <Compile Include="Assets\Scripts\spawnArcade.cs" />
+    <Compile Include="Assets\Scripts\spawnFase1.cs" />
+    <Compile Include="Assets\Scripts\spawnFase2.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
+</Project>

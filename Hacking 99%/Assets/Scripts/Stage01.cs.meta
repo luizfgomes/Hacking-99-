@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5a1affdb73e81a54fa82e9a4bc4e0b12
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PausarAsset: {fileID: 455522, guid: bdb542687f2c5c244aaf441cbdb35058, type: 2}
+  - InstrucoesAsset: {fileID: 469926, guid: eb2f720dca6ad084a9ab6626ef73cbf8, type: 2}
+  - SairAsset: {fileID: 478768, guid: ae8b592d6a551a94cae5b2763aaaf412, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
